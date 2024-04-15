@@ -1,0 +1,14 @@
+C:\F\Coding\CSharp\Ty.Tools\FlyweightPattern\bin\Debug\net6.0\FlyweightPattern.exe
+C:\F\Coding\CSharp\Ty.Tools\FlyweightPattern\bin\Debug\net6.0\FlyweightPattern.deps.json
+C:\F\Coding\CSharp\Ty.Tools\FlyweightPattern\bin\Debug\net6.0\FlyweightPattern.runtimeconfig.json
+C:\F\Coding\CSharp\Ty.Tools\FlyweightPattern\bin\Debug\net6.0\FlyweightPattern.dll
+C:\F\Coding\CSharp\Ty.Tools\FlyweightPattern\bin\Debug\net6.0\FlyweightPattern.pdb
+C:\F\Coding\CSharp\Ty.Tools\FlyweightPattern\obj\Debug\net6.0\FlyweightPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\F\Coding\CSharp\Ty.Tools\FlyweightPattern\obj\Debug\net6.0\FlyweightPattern.AssemblyInfoInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\FlyweightPattern\obj\Debug\net6.0\FlyweightPattern.AssemblyInfo.cs
+C:\F\Coding\CSharp\Ty.Tools\FlyweightPattern\obj\Debug\net6.0\FlyweightPattern.csproj.CoreCompileInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\FlyweightPattern\obj\Debug\net6.0\FlyweightPattern.dll
+C:\F\Coding\CSharp\Ty.Tools\FlyweightPattern\obj\Debug\net6.0\refint\FlyweightPattern.dll
+C:\F\Coding\CSharp\Ty.Tools\FlyweightPattern\obj\Debug\net6.0\FlyweightPattern.pdb
+C:\F\Coding\CSharp\Ty.Tools\FlyweightPattern\obj\Debug\net6.0\FlyweightPattern.genruntimeconfig.cache
+C:\F\Coding\CSharp\Ty.Tools\FlyweightPattern\obj\Debug\net6.0\ref\FlyweightPattern.dll

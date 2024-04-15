@@ -1,0 +1,7 @@
+C:\F\Coding\CSharp\Ty.Tools\2.3信号量SemaphoreSlim\bin\Debug\2.3信号量SemaphoreSlim.exe.config
+C:\F\Coding\CSharp\Ty.Tools\2.3信号量SemaphoreSlim\bin\Debug\2.3信号量SemaphoreSlim.exe
+C:\F\Coding\CSharp\Ty.Tools\2.3信号量SemaphoreSlim\bin\Debug\2.3信号量SemaphoreSlim.pdb
+C:\F\Coding\CSharp\Ty.Tools\2.3信号量SemaphoreSlim\obj\Debug\2.3信号量SemaphoreSlim.csproj.AssemblyReference.cache
+C:\F\Coding\CSharp\Ty.Tools\2.3信号量SemaphoreSlim\obj\Debug\2.3信号量SemaphoreSlim.csproj.CoreCompileInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\2.3信号量SemaphoreSlim\obj\Debug\2.3信号量SemaphoreSlim.exe
+C:\F\Coding\CSharp\Ty.Tools\2.3信号量SemaphoreSlim\obj\Debug\2.3信号量SemaphoreSlim.pdb

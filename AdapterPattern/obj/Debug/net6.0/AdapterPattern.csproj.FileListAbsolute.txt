@@ -1,0 +1,14 @@
+C:\F\Coding\CSharp\Ty.Tools\AdapterPattern\bin\Debug\net6.0\AdapterPattern.exe
+C:\F\Coding\CSharp\Ty.Tools\AdapterPattern\bin\Debug\net6.0\AdapterPattern.deps.json
+C:\F\Coding\CSharp\Ty.Tools\AdapterPattern\bin\Debug\net6.0\AdapterPattern.runtimeconfig.json
+C:\F\Coding\CSharp\Ty.Tools\AdapterPattern\bin\Debug\net6.0\AdapterPattern.dll
+C:\F\Coding\CSharp\Ty.Tools\AdapterPattern\bin\Debug\net6.0\AdapterPattern.pdb
+C:\F\Coding\CSharp\Ty.Tools\AdapterPattern\obj\Debug\net6.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\F\Coding\CSharp\Ty.Tools\AdapterPattern\obj\Debug\net6.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\AdapterPattern\obj\Debug\net6.0\AdapterPattern.AssemblyInfo.cs
+C:\F\Coding\CSharp\Ty.Tools\AdapterPattern\obj\Debug\net6.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\AdapterPattern\obj\Debug\net6.0\AdapterPattern.dll
+C:\F\Coding\CSharp\Ty.Tools\AdapterPattern\obj\Debug\net6.0\refint\AdapterPattern.dll
+C:\F\Coding\CSharp\Ty.Tools\AdapterPattern\obj\Debug\net6.0\AdapterPattern.pdb
+C:\F\Coding\CSharp\Ty.Tools\AdapterPattern\obj\Debug\net6.0\AdapterPattern.genruntimeconfig.cache
+C:\F\Coding\CSharp\Ty.Tools\AdapterPattern\obj\Debug\net6.0\ref\AdapterPattern.dll

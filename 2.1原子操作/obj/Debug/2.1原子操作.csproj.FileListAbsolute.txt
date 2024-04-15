@@ -1,0 +1,6 @@
+C:\F\Coding\CSharp\Ty.Tools\2.1原子操作\bin\Debug\2.1原子操作.exe.config
+C:\F\Coding\CSharp\Ty.Tools\2.1原子操作\bin\Debug\2.1原子操作.exe
+C:\F\Coding\CSharp\Ty.Tools\2.1原子操作\bin\Debug\2.1原子操作.pdb
+C:\F\Coding\CSharp\Ty.Tools\2.1原子操作\obj\Debug\2.1原子操作.csproj.CoreCompileInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\2.1原子操作\obj\Debug\2.1原子操作.exe
+C:\F\Coding\CSharp\Ty.Tools\2.1原子操作\obj\Debug\2.1原子操作.pdb

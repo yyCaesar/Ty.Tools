@@ -1,0 +1,10 @@
+C:\F\Coding\CSharp\Ty.Tools\1.1线程基础使用\bin\Debug\1.1线程基础使用.exe.config
+C:\F\Coding\CSharp\Ty.Tools\1.1线程基础使用\bin\Debug\1.1线程基础使用.exe
+C:\F\Coding\CSharp\Ty.Tools\1.1线程基础使用\bin\Debug\1.1线程基础使用.pdb
+C:\F\Coding\CSharp\Ty.Tools\1.1线程基础使用\bin\Debug\Infrastructure.dll
+C:\F\Coding\CSharp\Ty.Tools\1.1线程基础使用\bin\Debug\Infrastructure.pdb
+C:\F\Coding\CSharp\Ty.Tools\1.1线程基础使用\obj\Debug\1.1线程基础使用.csproj.AssemblyReference.cache
+C:\F\Coding\CSharp\Ty.Tools\1.1线程基础使用\obj\Debug\1.1线程基础使用.csproj.CoreCompileInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\1.1线程基础使用\obj\Debug\1.1线程基础使用.csproj.CopyComplete
+C:\F\Coding\CSharp\Ty.Tools\1.1线程基础使用\obj\Debug\1.1线程基础使用.exe
+C:\F\Coding\CSharp\Ty.Tools\1.1线程基础使用\obj\Debug\1.1线程基础使用.pdb

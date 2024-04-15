@@ -1,0 +1,17 @@
+C:\F\Coding\CSharp\Ty.Tools\PrototypePattern\bin\Debug\net6.0\PrototypePattern.exe
+C:\F\Coding\CSharp\Ty.Tools\PrototypePattern\bin\Debug\net6.0\PrototypePattern.deps.json
+C:\F\Coding\CSharp\Ty.Tools\PrototypePattern\bin\Debug\net6.0\PrototypePattern.runtimeconfig.json
+C:\F\Coding\CSharp\Ty.Tools\PrototypePattern\bin\Debug\net6.0\PrototypePattern.dll
+C:\F\Coding\CSharp\Ty.Tools\PrototypePattern\bin\Debug\net6.0\PrototypePattern.pdb
+C:\F\Coding\CSharp\Ty.Tools\PrototypePattern\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\F\Coding\CSharp\Ty.Tools\PrototypePattern\obj\Debug\net6.0\PrototypePattern.csproj.AssemblyReference.cache
+C:\F\Coding\CSharp\Ty.Tools\PrototypePattern\obj\Debug\net6.0\PrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\F\Coding\CSharp\Ty.Tools\PrototypePattern\obj\Debug\net6.0\PrototypePattern.AssemblyInfoInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\PrototypePattern\obj\Debug\net6.0\PrototypePattern.AssemblyInfo.cs
+C:\F\Coding\CSharp\Ty.Tools\PrototypePattern\obj\Debug\net6.0\PrototypePattern.csproj.CoreCompileInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\PrototypePattern\obj\Debug\net6.0\PrototypePattern.csproj.CopyComplete
+C:\F\Coding\CSharp\Ty.Tools\PrototypePattern\obj\Debug\net6.0\PrototypePattern.dll
+C:\F\Coding\CSharp\Ty.Tools\PrototypePattern\obj\Debug\net6.0\refint\PrototypePattern.dll
+C:\F\Coding\CSharp\Ty.Tools\PrototypePattern\obj\Debug\net6.0\PrototypePattern.pdb
+C:\F\Coding\CSharp\Ty.Tools\PrototypePattern\obj\Debug\net6.0\PrototypePattern.genruntimeconfig.cache
+C:\F\Coding\CSharp\Ty.Tools\PrototypePattern\obj\Debug\net6.0\ref\PrototypePattern.dll

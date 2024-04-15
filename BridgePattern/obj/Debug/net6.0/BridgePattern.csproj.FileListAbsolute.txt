@@ -1,0 +1,14 @@
+C:\F\Coding\CSharp\Ty.Tools\BridgePattern\bin\Debug\net6.0\BridgePattern.exe
+C:\F\Coding\CSharp\Ty.Tools\BridgePattern\bin\Debug\net6.0\BridgePattern.deps.json
+C:\F\Coding\CSharp\Ty.Tools\BridgePattern\bin\Debug\net6.0\BridgePattern.runtimeconfig.json
+C:\F\Coding\CSharp\Ty.Tools\BridgePattern\bin\Debug\net6.0\BridgePattern.dll
+C:\F\Coding\CSharp\Ty.Tools\BridgePattern\bin\Debug\net6.0\BridgePattern.pdb
+C:\F\Coding\CSharp\Ty.Tools\BridgePattern\obj\Debug\net6.0\BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\F\Coding\CSharp\Ty.Tools\BridgePattern\obj\Debug\net6.0\BridgePattern.AssemblyInfoInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\BridgePattern\obj\Debug\net6.0\BridgePattern.AssemblyInfo.cs
+C:\F\Coding\CSharp\Ty.Tools\BridgePattern\obj\Debug\net6.0\BridgePattern.csproj.CoreCompileInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\BridgePattern\obj\Debug\net6.0\BridgePattern.dll
+C:\F\Coding\CSharp\Ty.Tools\BridgePattern\obj\Debug\net6.0\refint\BridgePattern.dll
+C:\F\Coding\CSharp\Ty.Tools\BridgePattern\obj\Debug\net6.0\BridgePattern.pdb
+C:\F\Coding\CSharp\Ty.Tools\BridgePattern\obj\Debug\net6.0\BridgePattern.genruntimeconfig.cache
+C:\F\Coding\CSharp\Ty.Tools\BridgePattern\obj\Debug\net6.0\ref\BridgePattern.dll

@@ -1,0 +1,7 @@
+C:\F\Coding\CSharp\Ty.Tools\2.2使用Mutex类\bin\Debug\2.2使用Mutex类.exe.config
+C:\F\Coding\CSharp\Ty.Tools\2.2使用Mutex类\bin\Debug\2.2使用Mutex类.exe
+C:\F\Coding\CSharp\Ty.Tools\2.2使用Mutex类\bin\Debug\2.2使用Mutex类.pdb
+C:\F\Coding\CSharp\Ty.Tools\2.2使用Mutex类\obj\Debug\2.2使用Mutex类.csproj.CoreCompileInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\2.2使用Mutex类\obj\Debug\2.2使用Mutex类.exe
+C:\F\Coding\CSharp\Ty.Tools\2.2使用Mutex类\obj\Debug\2.2使用Mutex类.pdb
+C:\F\Coding\CSharp\Ty.Tools\2.2使用Mutex类\obj\Debug\2.2使用Mutex类.csproj.AssemblyReference.cache

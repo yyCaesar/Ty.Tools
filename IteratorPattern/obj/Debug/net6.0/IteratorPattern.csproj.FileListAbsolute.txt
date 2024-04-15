@@ -1,0 +1,14 @@
+C:\F\Coding\CSharp\Ty.Tools\IteratorPattern\bin\Debug\net6.0\IteratorPattern.exe
+C:\F\Coding\CSharp\Ty.Tools\IteratorPattern\bin\Debug\net6.0\IteratorPattern.deps.json
+C:\F\Coding\CSharp\Ty.Tools\IteratorPattern\bin\Debug\net6.0\IteratorPattern.runtimeconfig.json
+C:\F\Coding\CSharp\Ty.Tools\IteratorPattern\bin\Debug\net6.0\IteratorPattern.dll
+C:\F\Coding\CSharp\Ty.Tools\IteratorPattern\bin\Debug\net6.0\IteratorPattern.pdb
+C:\F\Coding\CSharp\Ty.Tools\IteratorPattern\obj\Debug\net6.0\IteratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\F\Coding\CSharp\Ty.Tools\IteratorPattern\obj\Debug\net6.0\IteratorPattern.AssemblyInfoInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\IteratorPattern\obj\Debug\net6.0\IteratorPattern.AssemblyInfo.cs
+C:\F\Coding\CSharp\Ty.Tools\IteratorPattern\obj\Debug\net6.0\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\IteratorPattern\obj\Debug\net6.0\IteratorPattern.dll
+C:\F\Coding\CSharp\Ty.Tools\IteratorPattern\obj\Debug\net6.0\refint\IteratorPattern.dll
+C:\F\Coding\CSharp\Ty.Tools\IteratorPattern\obj\Debug\net6.0\IteratorPattern.pdb
+C:\F\Coding\CSharp\Ty.Tools\IteratorPattern\obj\Debug\net6.0\IteratorPattern.genruntimeconfig.cache
+C:\F\Coding\CSharp\Ty.Tools\IteratorPattern\obj\Debug\net6.0\ref\IteratorPattern.dll

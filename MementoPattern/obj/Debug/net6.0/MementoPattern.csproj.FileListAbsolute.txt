@@ -1,0 +1,14 @@
+C:\F\Coding\CSharp\Ty.Tools\MementoPattern\bin\Debug\net6.0\MementoPattern.exe
+C:\F\Coding\CSharp\Ty.Tools\MementoPattern\bin\Debug\net6.0\MementoPattern.deps.json
+C:\F\Coding\CSharp\Ty.Tools\MementoPattern\bin\Debug\net6.0\MementoPattern.runtimeconfig.json
+C:\F\Coding\CSharp\Ty.Tools\MementoPattern\bin\Debug\net6.0\MementoPattern.dll
+C:\F\Coding\CSharp\Ty.Tools\MementoPattern\bin\Debug\net6.0\MementoPattern.pdb
+C:\F\Coding\CSharp\Ty.Tools\MementoPattern\obj\Debug\net6.0\MementoPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\F\Coding\CSharp\Ty.Tools\MementoPattern\obj\Debug\net6.0\MementoPattern.AssemblyInfoInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\MementoPattern\obj\Debug\net6.0\MementoPattern.AssemblyInfo.cs
+C:\F\Coding\CSharp\Ty.Tools\MementoPattern\obj\Debug\net6.0\MementoPattern.csproj.CoreCompileInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\MementoPattern\obj\Debug\net6.0\MementoPattern.dll
+C:\F\Coding\CSharp\Ty.Tools\MementoPattern\obj\Debug\net6.0\refint\MementoPattern.dll
+C:\F\Coding\CSharp\Ty.Tools\MementoPattern\obj\Debug\net6.0\MementoPattern.pdb
+C:\F\Coding\CSharp\Ty.Tools\MementoPattern\obj\Debug\net6.0\MementoPattern.genruntimeconfig.cache
+C:\F\Coding\CSharp\Ty.Tools\MementoPattern\obj\Debug\net6.0\ref\MementoPattern.dll

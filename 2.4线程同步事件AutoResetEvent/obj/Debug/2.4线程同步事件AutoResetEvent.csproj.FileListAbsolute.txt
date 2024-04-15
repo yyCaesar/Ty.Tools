@@ -1,0 +1,7 @@
+C:\F\Coding\CSharp\Ty.Tools\2.4线程同步事件AutoResetEvent\bin\Debug\2.4线程同步事件AutoResetEvent.exe.config
+C:\F\Coding\CSharp\Ty.Tools\2.4线程同步事件AutoResetEvent\bin\Debug\2.4线程同步事件AutoResetEvent.exe
+C:\F\Coding\CSharp\Ty.Tools\2.4线程同步事件AutoResetEvent\bin\Debug\2.4线程同步事件AutoResetEvent.pdb
+C:\F\Coding\CSharp\Ty.Tools\2.4线程同步事件AutoResetEvent\obj\Debug\2.4线程同步事件AutoResetEvent.csproj.AssemblyReference.cache
+C:\F\Coding\CSharp\Ty.Tools\2.4线程同步事件AutoResetEvent\obj\Debug\2.4线程同步事件AutoResetEvent.csproj.CoreCompileInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\2.4线程同步事件AutoResetEvent\obj\Debug\2.4线程同步事件AutoResetEvent.exe
+C:\F\Coding\CSharp\Ty.Tools\2.4线程同步事件AutoResetEvent\obj\Debug\2.4线程同步事件AutoResetEvent.pdb

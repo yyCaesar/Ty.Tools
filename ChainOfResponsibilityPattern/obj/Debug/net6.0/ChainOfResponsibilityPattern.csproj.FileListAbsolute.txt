@@ -1,0 +1,14 @@
+C:\F\Coding\CSharp\Ty.Tools\ChainOfResponsibilityPattern\bin\Debug\net6.0\ChainOfResponsibilityPattern.exe
+C:\F\Coding\CSharp\Ty.Tools\ChainOfResponsibilityPattern\bin\Debug\net6.0\ChainOfResponsibilityPattern.deps.json
+C:\F\Coding\CSharp\Ty.Tools\ChainOfResponsibilityPattern\bin\Debug\net6.0\ChainOfResponsibilityPattern.runtimeconfig.json
+C:\F\Coding\CSharp\Ty.Tools\ChainOfResponsibilityPattern\bin\Debug\net6.0\ChainOfResponsibilityPattern.dll
+C:\F\Coding\CSharp\Ty.Tools\ChainOfResponsibilityPattern\bin\Debug\net6.0\ChainOfResponsibilityPattern.pdb
+C:\F\Coding\CSharp\Ty.Tools\ChainOfResponsibilityPattern\obj\Debug\net6.0\ChainOfResponsibilityPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\F\Coding\CSharp\Ty.Tools\ChainOfResponsibilityPattern\obj\Debug\net6.0\ChainOfResponsibilityPattern.AssemblyInfoInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\ChainOfResponsibilityPattern\obj\Debug\net6.0\ChainOfResponsibilityPattern.AssemblyInfo.cs
+C:\F\Coding\CSharp\Ty.Tools\ChainOfResponsibilityPattern\obj\Debug\net6.0\ChainOfResponsibilityPattern.csproj.CoreCompileInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\ChainOfResponsibilityPattern\obj\Debug\net6.0\ChainOfResponsibilityPattern.dll
+C:\F\Coding\CSharp\Ty.Tools\ChainOfResponsibilityPattern\obj\Debug\net6.0\refint\ChainOfResponsibilityPattern.dll
+C:\F\Coding\CSharp\Ty.Tools\ChainOfResponsibilityPattern\obj\Debug\net6.0\ChainOfResponsibilityPattern.pdb
+C:\F\Coding\CSharp\Ty.Tools\ChainOfResponsibilityPattern\obj\Debug\net6.0\ChainOfResponsibilityPattern.genruntimeconfig.cache
+C:\F\Coding\CSharp\Ty.Tools\ChainOfResponsibilityPattern\obj\Debug\net6.0\ref\ChainOfResponsibilityPattern.dll

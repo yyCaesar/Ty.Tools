@@ -1,0 +1,14 @@
+C:\F\Coding\CSharp\Ty.Tools\TemplatePattern\bin\Debug\net6.0\TemplatePattern.exe
+C:\F\Coding\CSharp\Ty.Tools\TemplatePattern\bin\Debug\net6.0\TemplatePattern.deps.json
+C:\F\Coding\CSharp\Ty.Tools\TemplatePattern\bin\Debug\net6.0\TemplatePattern.runtimeconfig.json
+C:\F\Coding\CSharp\Ty.Tools\TemplatePattern\bin\Debug\net6.0\TemplatePattern.dll
+C:\F\Coding\CSharp\Ty.Tools\TemplatePattern\bin\Debug\net6.0\TemplatePattern.pdb
+C:\F\Coding\CSharp\Ty.Tools\TemplatePattern\obj\Debug\net6.0\TemplatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\F\Coding\CSharp\Ty.Tools\TemplatePattern\obj\Debug\net6.0\TemplatePattern.AssemblyInfoInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\TemplatePattern\obj\Debug\net6.0\TemplatePattern.AssemblyInfo.cs
+C:\F\Coding\CSharp\Ty.Tools\TemplatePattern\obj\Debug\net6.0\TemplatePattern.csproj.CoreCompileInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\TemplatePattern\obj\Debug\net6.0\TemplatePattern.dll
+C:\F\Coding\CSharp\Ty.Tools\TemplatePattern\obj\Debug\net6.0\refint\TemplatePattern.dll
+C:\F\Coding\CSharp\Ty.Tools\TemplatePattern\obj\Debug\net6.0\TemplatePattern.pdb
+C:\F\Coding\CSharp\Ty.Tools\TemplatePattern\obj\Debug\net6.0\TemplatePattern.genruntimeconfig.cache
+C:\F\Coding\CSharp\Ty.Tools\TemplatePattern\obj\Debug\net6.0\ref\TemplatePattern.dll

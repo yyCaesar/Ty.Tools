@@ -1,0 +1,6 @@
+C:\F\Coding\CSharp\Ty.Tools\Infrastructure\bin\Debug\Infrastructure.dll
+C:\F\Coding\CSharp\Ty.Tools\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\F\Coding\CSharp\Ty.Tools\Infrastructure\obj\Debug\Infrastructure.csproj.AssemblyReference.cache
+C:\F\Coding\CSharp\Ty.Tools\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\Infrastructure\obj\Debug\Infrastructure.dll
+C:\F\Coding\CSharp\Ty.Tools\Infrastructure\obj\Debug\Infrastructure.pdb

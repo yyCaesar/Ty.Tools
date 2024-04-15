@@ -1,0 +1,9 @@
+C:\F\Coding\CSharp\Ty.Tools\MiniExcel\bin\Debug\MiniExcelTest.exe.config
+C:\F\Coding\CSharp\Ty.Tools\MiniExcel\bin\Debug\MiniExcelTest.exe
+C:\F\Coding\CSharp\Ty.Tools\MiniExcel\bin\Debug\MiniExcelTest.pdb
+C:\F\Coding\CSharp\Ty.Tools\MiniExcel\bin\Debug\MiniExcel.dll
+C:\F\Coding\CSharp\Ty.Tools\MiniExcel\obj\Debug\MiniExcelTest.csproj.AssemblyReference.cache
+C:\F\Coding\CSharp\Ty.Tools\MiniExcel\obj\Debug\MiniExcelTest.csproj.CoreCompileInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\MiniExcel\obj\Debug\MiniExcelTest.csproj.CopyComplete
+C:\F\Coding\CSharp\Ty.Tools\MiniExcel\obj\Debug\MiniExcelTest.exe
+C:\F\Coding\CSharp\Ty.Tools\MiniExcel\obj\Debug\MiniExcelTest.pdb

@@ -1,0 +1,14 @@
+C:\F\Coding\CSharp\Ty.Tools\CompositePattern\bin\Debug\net6.0\CompositePattern.exe
+C:\F\Coding\CSharp\Ty.Tools\CompositePattern\bin\Debug\net6.0\CompositePattern.deps.json
+C:\F\Coding\CSharp\Ty.Tools\CompositePattern\bin\Debug\net6.0\CompositePattern.runtimeconfig.json
+C:\F\Coding\CSharp\Ty.Tools\CompositePattern\bin\Debug\net6.0\CompositePattern.dll
+C:\F\Coding\CSharp\Ty.Tools\CompositePattern\bin\Debug\net6.0\CompositePattern.pdb
+C:\F\Coding\CSharp\Ty.Tools\CompositePattern\obj\Debug\net6.0\CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\F\Coding\CSharp\Ty.Tools\CompositePattern\obj\Debug\net6.0\CompositePattern.AssemblyInfoInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\CompositePattern\obj\Debug\net6.0\CompositePattern.AssemblyInfo.cs
+C:\F\Coding\CSharp\Ty.Tools\CompositePattern\obj\Debug\net6.0\CompositePattern.csproj.CoreCompileInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\CompositePattern\obj\Debug\net6.0\CompositePattern.dll
+C:\F\Coding\CSharp\Ty.Tools\CompositePattern\obj\Debug\net6.0\refint\CompositePattern.dll
+C:\F\Coding\CSharp\Ty.Tools\CompositePattern\obj\Debug\net6.0\CompositePattern.pdb
+C:\F\Coding\CSharp\Ty.Tools\CompositePattern\obj\Debug\net6.0\CompositePattern.genruntimeconfig.cache
+C:\F\Coding\CSharp\Ty.Tools\CompositePattern\obj\Debug\net6.0\ref\CompositePattern.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QWyyRIccCmp8J1ONvD8MpQgDsevQ+O9+dV1skxcPxv80fpell0iL/xZJQvkNY0fpcIk22/E13Q5c3uSgA+zJ0w==",
+  "success": true,
+  "projectFilePath": "C:\\F\\Coding\\CSharp\\Ty.Tools\\PrototypePattern\\PrototypePattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KX-202207-0062\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

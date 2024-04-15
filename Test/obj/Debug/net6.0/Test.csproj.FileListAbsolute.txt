@@ -1,0 +1,14 @@
+C:\F\Coding\CSharp\Ty.Tools\Test\bin\Debug\net6.0\Test.exe
+C:\F\Coding\CSharp\Ty.Tools\Test\bin\Debug\net6.0\Test.deps.json
+C:\F\Coding\CSharp\Ty.Tools\Test\bin\Debug\net6.0\Test.runtimeconfig.json
+C:\F\Coding\CSharp\Ty.Tools\Test\bin\Debug\net6.0\Test.dll
+C:\F\Coding\CSharp\Ty.Tools\Test\bin\Debug\net6.0\Test.pdb
+C:\F\Coding\CSharp\Ty.Tools\Test\obj\Debug\net6.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\F\Coding\CSharp\Ty.Tools\Test\obj\Debug\net6.0\Test.AssemblyInfoInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\Test\obj\Debug\net6.0\Test.AssemblyInfo.cs
+C:\F\Coding\CSharp\Ty.Tools\Test\obj\Debug\net6.0\Test.csproj.CoreCompileInputs.cache
+C:\F\Coding\CSharp\Ty.Tools\Test\obj\Debug\net6.0\Test.dll
+C:\F\Coding\CSharp\Ty.Tools\Test\obj\Debug\net6.0\refint\Test.dll
+C:\F\Coding\CSharp\Ty.Tools\Test\obj\Debug\net6.0\Test.pdb
+C:\F\Coding\CSharp\Ty.Tools\Test\obj\Debug\net6.0\Test.genruntimeconfig.cache
+C:\F\Coding\CSharp\Ty.Tools\Test\obj\Debug\net6.0\ref\Test.dll

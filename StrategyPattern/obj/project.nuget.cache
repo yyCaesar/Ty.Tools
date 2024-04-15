@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e3vXFza2WQL+ONAcblzlsZf0dPXpsDdLd/UMNb41Em6C6z/xCy8A82yimx2nGyrh+NHwQ3v9udz9L48tDWhMYw==",
+  "success": true,
+  "projectFilePath": "C:\\F\\Coding\\CSharp\\Ty.Tools\\StrategyPattern\\StrategyPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KX-202207-0062\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\KX-202207-0062\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
